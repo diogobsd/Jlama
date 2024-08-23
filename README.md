@@ -1,4 +1,8 @@
+#
 # 🦙 Jlama: A modern LLM inference engine for Java
+#
+# 08/22/2024 Personal version.
+#
 
 <p align="center">
   <img src="docs/jlama.jpg" width="300" height="300" alt="Cute Jlama">
